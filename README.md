@@ -12,3 +12,4 @@ My team was working on a project to communicate using socket connections to send
 - Control-s for saving files
 - run terminal commands from within the app
 
+![Alt text](https://github.com/manish7696/PythonCodeEditor/blob/main/example.png)
