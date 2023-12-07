@@ -13,3 +13,7 @@ My team was working on a project to communicate using socket connections to send
 - run terminal commands from within the app
 
 ![Alt text](https://github.com/manish7696/PythonCodeEditor/blob/main/example.png)
+
+
+
+https://www.figma.com/file/96qkS0JFYEYv58OBflTZS3/Untitled?type=design&node-id=25%3A1949&mode=design&t=2CrkUtCr5ofXdFiV-1
